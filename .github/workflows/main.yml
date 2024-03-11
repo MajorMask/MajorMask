@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: MajorMask/MajorMask
+    name: WAKAREADME DEV METRICS
     runs-on: ubuntu-latest
     steps:
       - uses: MajorMask/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_cde9d2d1-7002-45ec-b4a7-6d56b09081ae }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
