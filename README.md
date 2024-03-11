@@ -5,7 +5,7 @@
         </samp>
 </h2>
 Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<!--[visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)-->
 
 
 <p align="center">
@@ -31,8 +31,8 @@ Glad to see you here!
 <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=MajorMask&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /-->
 
 <p align="center">
-  <a href="https://github.com/syket-das">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syket-das&theme=radical" alt="Al Syket's GitHub Contribution"/>
+  <a href="https://github.com/MajorMask">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=radical" alt="Al Syket's GitHub Contribution"/>
   </a>
 </p>
 
