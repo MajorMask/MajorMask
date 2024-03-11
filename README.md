@@ -24,7 +24,8 @@ Glad to see you here!
 </p>
 <br />
 
-#About Me
+<h2>About Me</h2>
+</br>
 2+ years of experience deploying industry-grade Machine Learning models, proficient in Git, Python, and software development. Streamlined software development processes by implementing Git version control, increasing team productivity by 25%
 
 
