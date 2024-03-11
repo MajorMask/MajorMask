@@ -4,6 +4,8 @@
                 <b><a target="_blank" href="https://mananagg.me">Manan Aggarwal</a></b>
         </samp>
 </h2>
+</br>
+
 Glad to see you here! 
 <!--[visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)-->
 
@@ -28,9 +30,10 @@ Glad to see you here!
 </br>
 2+ years of experience deploying industry-grade Machine Learning models, proficient in Git, Python, and software development. Streamlined software development processes by implementing Git version control, increasing team productivity by 25%
 
-
+</br>
 <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=MajorMask&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /-->
 
+</br>
 <p align="center">
   <a href="https://github.com/MajorMask">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=radical" alt="Al Syket's GitHub Contribution"/>
@@ -45,5 +48,3 @@ Glad to see you here!
 
 
 ![Manan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MajorMask&custom_title=%20Manan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
