@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: MajorMask/MajorMask
     runs-on: ubuntu-latest
     steps:
       - uses: MajorMask/waka-readme@master
