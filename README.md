@@ -1,7 +1,7 @@
 
 <h2 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mananagg.me">Manan Aggarwal</a></b>
+                <b><a target="_blank" href="https://majormask.github.io">Manan Aggarwal</a></b>
         </samp>
 </h2>
 </br>
@@ -36,7 +36,7 @@ Glad to see you here!
 </br>
 <p align="center">
   <a href="https://github.com/MajorMask">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=radical" alt="Al Syket's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=radical" alt="Manan Aggarwal's GitHub Contribution"/>
   </a>
 </p>
 
