@@ -36,7 +36,7 @@ Glad to see you here!
 </br>
 <p align="center">
   <a href="https://github.com/MajorMask">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=radical" alt="Manan Aggarwal's GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MajorMask&theme=aura" alt="Manan Aggarwal's GitHub Contribution"/>
   </a>
 </p>
 
