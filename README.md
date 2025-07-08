@@ -46,5 +46,6 @@ Glad to see you here!
   <br/>
 </a>
 
-
+<a>
 ![Manan's Graph](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MajorMask&theme=github&utcOffset=8)
+</a>
